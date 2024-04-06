@@ -1,0 +1,13 @@
+1 - Machine Learning, ou Aprendizado de Máquina, que permitem aos computadores aprender e tomar decisões ou previsões com base em dados.
+
+2 - Conjunto de Treinamento: E o conjunto de dados para treinar o modelo.
+
+Conjunto de Validação: conjunto onde escolhemos a complexidade do modelo durante o treinamento 
+
+Conjunto de Teste: e o conjunto que usamos para avaliar o modelo
+
+3 - Mapearia os dados para ver se teria algum quebrado para não afetar a entrada do mesmo 
+
+4 - Matriz de confusão é uma ferramenta para avaliar o desempenho de um modelo de classificação.
+
+5 - Falando com minhas palavra e o que entendi sobre machine learning, gostaria de aplicar na área de finanças, acredito que ela ajudaria a ter menos fraude, ia ter mais automação nas ações entre outras que poderia estar verificando.
